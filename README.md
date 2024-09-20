@@ -1,4 +1,4 @@
-## Análise de Dados Neurofisiológicos em Tarefas de Análise de Código
+## Análise de Dados Neurofisiológicos em Tarefas em Qualidade de Código
 
 Notebook Jupyter com código em R para análise de dados neurofisiológicos coletados durante a realização de tarefas de análise de código. O objetivo principal é investigar a influência do uso de LLMs (Modelos de Linguagem Ampla) e de blends (misturas de diferentes tipos de informação) no desempenho e nas respostas neurofisiológicas dos participantes.
 
